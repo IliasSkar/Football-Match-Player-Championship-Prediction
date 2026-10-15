@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
+
+data/
+*.csv
+
+saved_models/
+*.pt
+*.pth
+
+.env
+.DS_Store
+Thumbs.db
