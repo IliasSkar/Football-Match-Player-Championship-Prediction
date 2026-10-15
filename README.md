@@ -47,7 +47,7 @@ Football-Match-Player-Championship-Prediction/
 │   ├── Player_Model.png
 │   └── Model_vs_Baseline.png
 │
-├── Output Examples/
+├── Examples/
 │   ├── CLI menu.png
 │   ├── Match Example.png
 │   └── Monte Carlo Example.png
@@ -736,7 +736,7 @@ The inclusion of Elo improved mean outcome accuracy by approximately:
 
 The complete system can be accessed through an interactive CLI.
 
-![CLI menu](Output%20Examples/CLI%20menu.png)
+![CLI menu](Examples/CLI%20menu.png)
 
 Available functions include:
 
@@ -760,7 +760,7 @@ Some yes/no inputs also accept Greek response variants for compatibility with th
 
 # Match Prediction Example
 
-![Match prediction example](Output%20Examples/Match%20Example.png)
+![Match prediction example](Examples/Match%20Example.png)
 
 A match prediction returns:
 
@@ -795,7 +795,7 @@ Most likely exact score
 
 # Monte Carlo League Simulation
 
-![Monte Carlo example](Output%20Examples/Monte%20Carlo%20Example.png)
+![Monte Carlo example](Examples/Monte%20Carlo%20Example.png)
 
 The trained team model is also used as the basis for Monte Carlo league simulations.
 
